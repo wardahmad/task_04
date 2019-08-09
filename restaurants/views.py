@@ -7,7 +7,7 @@ def restaurant_list(request):
     context = {
         "my_list":[
             {
-                'name':'Subway',
+                'name':'Subw',
                 'food_type':'Sandwiches.',
             },
             {
